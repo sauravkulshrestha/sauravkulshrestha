@@ -23,7 +23,7 @@
 
 <!-- <a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a> -->
 
-<a href="https:/www.linkedin.com/in/saurav-kulshrestha-820496124/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-saurav kulshrestha-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/saurav-kulshrestha-820496124"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-saurav kulshrestha-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/saurav kulshrestha/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saurav kulshrestha-black?style=flat-square&logo=instagram"></a>
 
