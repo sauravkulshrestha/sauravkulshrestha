@@ -4,7 +4,7 @@
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Saurav Kulshrestha a Full Stack Developer from India.
+<!-- ### Hello! I'm Saurav Kulshrestha a Full Stack Developer from India. -->
 
 
 <!-- <a href="https://twitter.com/dhanani_brijesh">
